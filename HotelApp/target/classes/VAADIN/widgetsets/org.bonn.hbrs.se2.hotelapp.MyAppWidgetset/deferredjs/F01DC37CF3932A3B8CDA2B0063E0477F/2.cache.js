@@ -1,0 +1,1 @@
+$wnd.org_bonn_hbrs_se2_hotelapp_MyAppWidgetset.runAsyncCallback2('pdb(1601,1,g_d);_.vc=function Ogc(){S1b((!L1b&&(L1b=new X1b),L1b),this.a.d)};IUd(Th)(2);\n//# sourceURL=org.bonn.hbrs.se2.hotelapp.MyAppWidgetset-2.js\n')
